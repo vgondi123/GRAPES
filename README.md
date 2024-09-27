@@ -1,5 +1,4 @@
-# GRAPES
-Benchmarking the GRAPES Deep Learning EEW Model on a Suite of California Earthquakes
+# Benchmarking the GRAPES Deep Learning EEW Model on a Suite of California Earthquakes
 
 ## Description
 Earthquake Early Warning (EEW) systems are designed to give people a heads-up before strong shaking starts. Traditional systems predict shaking by figuring out the size and location of an earthquake, but this can take a few seconds, potentially delaying the warning. The GRAPES EEW algorithm uses a new approach, powered by deep learning, to make faster and more accurate predictions. It looks at data from seismic sensors and connects them in a network, learning how shaking travels between stations. GRAPES analyzes patterns in the data every 4 seconds and updates predictions in real time.
