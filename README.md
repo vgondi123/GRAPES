@@ -31,8 +31,10 @@ Importantly, GRAPES provided good warning times in California. During the Ridgec
 
 <img width="1116" alt="Screenshot 2024-09-27 at 4 05 15 PM" src="https://github.com/user-attachments/assets/0aee7a76-7dee-4e6b-9cf8-351602464b1f">
 <img width="1005" alt="Screenshot 2024-09-27 at 4 05 34 PM" src="https://github.com/user-attachments/assets/10f19c54-d685-41d7-b120-66e2e9263812">
-<img width="1039" alt="Screenshot 2024-09-27 at 4 05 53 PM" src="https://github.com/user-att<img width="754" alt="Screenshot 2024-09-27 at 4 06 10 PM" src="https://github.com/user-attachments/assets/07822854-8af1-4e13-a82e-57cc3b4ec9b8">
-achments/assets/7ed2ab27-d54e-4025-93f2-6d5c5b1bd077">
+<img width="1039" alt="Screenshot 2024-09-27 at 4 07 13 PM" src="https://github.com/user-attachments/assets/bda0d482-f951-43a1-81c6-65f08babff34">
+<img width="750" alt="Screenshot 2024-09-27 at 4 07 29 PM" src="https://github.com/user-attachments/assets/4569faa0-98ed-4991-ad82-9cd063620a73">
+
+
 
 
 
