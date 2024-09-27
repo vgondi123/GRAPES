@@ -13,6 +13,7 @@ The faster and more reliable these systems get, the more time people have to pro
 
 ### Processing and Filtering Seismic Event Data
 <img width="666" alt="Screenshot 2024-09-27 at 3 44 57 PM" src="https://github.com/user-attachments/assets/bfee07ac-3649-464a-b095-b2aeb822021a">
+
 This section describes the process of filtering and synchronizing seismic event data from the SCEC dataset. I began by loading waveform files from multiple events, organized by year and event ID. I filtered out stations that lacked complete data for the East, North, and Vertical components, ensuring data consistency. Next, I synchronized the traces by aligning their start times and removed low-frequency noise to improve data quality. After processing, I compiled station metadata into a streamlined inventory, focusing on station locations. This process handled over 10,000 traces in the overall test and about 900 traces for the Ridgecrest test, producing high-quality data for further analysis.
 
 
