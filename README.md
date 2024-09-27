@@ -24,4 +24,16 @@ For the GRAPES model, the input tensors were designed to capture seismic wavefor
 <img width="717" alt="Screenshot 2024-09-27 at 3 56 22 PM" src="https://github.com/user-attachments/assets/67f372d5-5511-4510-95b9-ebbbdc853c43">
 <img width="715" alt="Screenshot 2024-09-27 at 3 56 38 PM" src="https://github.com/user-attachments/assets/e390cc89-6bde-40d2-bf30-cc9aacddb6d7">
 
+### Results
+The GRAPES algorithm demonstrated an overprediction of Peak Ground Acceleration (PGA) during the Ridgecrest Earthquake and other events in the test suite. This overprediction could be due to the need for retraining on California-specific data, as the region’s geophysical features differs significantly from Japan, where GRAPES was initially tested. However, overprediction in earthquake early warning systems is generally less concerning, as it is better to issue an unnecessary alert than to fail to send one in a critical situation.
+
+Importantly, GRAPES provided good warning times in California. During the Ridgecrest Earthquake, the USGS' ShakeAlert Early Warning System failed to send an alert to Los Angeles County. In contrast, GRAPES successfully issued an alert, providing 30-40 seconds of warning time. This advance notice is crucial in earthquake early warning systems, as every second counts for saving lives, reducing injuries, and allowing people to take protective actions. The ability to deliver timely warnings is one of the most critical aspects of an effective early warning system.
+
+<img width="1116" alt="Screenshot 2024-09-27 at 4 05 15 PM" src="https://github.com/user-attachments/assets/0aee7a76-7dee-4e6b-9cf8-351602464b1f">
+<img width="1005" alt="Screenshot 2024-09-27 at 4 05 34 PM" src="https://github.com/user-attachments/assets/10f19c54-d685-41d7-b120-66e2e9263812">
+<img width="1039" alt="Screenshot 2024-09-27 at 4 05 53 PM" src="https://github.com/user-att<img width="754" alt="Screenshot 2024-09-27 at 4 06 10 PM" src="https://github.com/user-attachments/assets/07822854-8af1-4e13-a82e-57cc3b4ec9b8">
+achments/assets/7ed2ab27-d54e-4025-93f2-6d5c5b1bd077">
+
+
+
 
